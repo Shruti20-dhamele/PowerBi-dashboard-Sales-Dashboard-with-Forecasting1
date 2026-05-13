@@ -1,4 +1,4 @@
-# PowerBi-dashboard-Sales-Dashboard-with-Forecasting1
+
 # Sales Performance Dashboard with Forecasting
 
 I built this project in Power BI using the SuperStore retail dataset. The idea was simple — take raw sales data and turn it into something that actually makes sense visually. You should be able to open this dashboard and within seconds know which products are selling, which regions are doing well, and what the next 15 days might look like in terms of sales.
